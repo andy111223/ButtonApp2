@@ -1,4 +1,4 @@
-package com.example.buttonappka;
+package com.example.buttonapp2;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
